@@ -8,8 +8,8 @@
 
 <img src="https://github.com/mariolawolska/graphicDesigns/blob/main/cl-1200-628%20(1).png">
 <img src="https://github.com/mariolawolska/graphicDesigns/blob/main/designbuild_1024_512.png">
-
+<img src="https://github.com/mariolawolska/graphicDesigns/blob/main/newweek_goal_1024_512.png">
 <img src="https://github.com/mariolawolska/graphicDesigns/blob/main/email1.jpg">
 <img src="https://github.com/mariolawolska/graphicDesigns/blob/main/email2.jpg">
 <img src="https://github.com/mariolawolska/graphicDesigns/blob/main/email3.jpg">
-<img src="https://github.com/mariolawolska/graphicDesigns/blob/main/newweek_goal_1024_512.png">
+
